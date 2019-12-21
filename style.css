@@ -1,0 +1,42 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 109px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    line-height: 2;
+}
+
+li a {
+    text-align: center;
+    padding: 16px;
+}
+
+.nL {
+    float: left;
+}
+
+.nR {
+    float: right;
+}
+
+.searchbar {
+    padding-top: 2px;
+    text-align: center;
+}
+
+.submission {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
